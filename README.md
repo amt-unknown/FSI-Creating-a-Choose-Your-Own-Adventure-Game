@@ -1,5 +1,4 @@
 # Creating a Choose Your Own Adventure Game
 
-This is an activity for SD Lesson 1.10.2- Conditional Statements.
-
-Please refer to the Activity Guide in Canvas for directions.
+This is a preliminary version. There are some evident routes for reducing bugs. 
+-User needs to know what to words to respond with or the code needs more sophisticated interpretation.
